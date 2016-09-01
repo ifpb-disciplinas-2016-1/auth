@@ -3,3 +3,4 @@ auth-core/target
 auth-sample/target
 twitter/target
 twitter/nb-configuration.xml
+/auth-basic/target/

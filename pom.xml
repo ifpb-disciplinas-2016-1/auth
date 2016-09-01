@@ -8,8 +8,9 @@
     <modules>
         <module>auth-sample</module>
         <module>auth-core</module>
-        <module>twitter</module> 
-    </modules>
+        <module>twitter</module>
+    <module>auth-basic</module>
+  </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
